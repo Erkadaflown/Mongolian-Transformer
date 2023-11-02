@@ -1,5 +1,7 @@
 # Mongolian-Transformer
 
-English to Mongolian
+English to Mongolian \
 
-This is Mongolian transformer model
+This is Mongolian transformer model from scratch \
+
+Used paper "Attention all you need"
