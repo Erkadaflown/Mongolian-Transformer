@@ -1,2 +1,5 @@
 # Mongolian-Transformer
-This is Mongolian transformer mode;
+
+English to Mongolian
+
+This is Mongolian transformer model
